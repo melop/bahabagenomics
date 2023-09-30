@@ -1,0 +1,1 @@
+python /data/software/juicebox_scripts/juicebox_scripts/juicebox_assembly_converter.py -a polished_p_ctgs.0.review.assembly -f /data/projects/rcui/bahaha_assembly/falcon/4-polish/cns-output/polished_p_ctgs.fasta
