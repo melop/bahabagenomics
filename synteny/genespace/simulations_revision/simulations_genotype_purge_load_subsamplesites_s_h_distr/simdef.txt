@@ -1,0 +1,6 @@
+Chr	TotalGen	SeedingPopSize	PopSize	h	h_sd	s	s_sd	RecPerChr	TopPercentileForBreeding	MeanHomDel	SDHomDel	MeanDel	SDDel	GenotypedMarkerPerc	Reps
+24	200	10	100	0.5	0	0.001	0	2	1	-1	-1	-1	-1	1	10
+24	200	10	100	0.5	0	0.002	0	2	1	-1	-1	-1	-1	1	10
+24	200	10	100	0.5	0	0.003	0	2	1	-1	-1	-1	-1	1	10
+24	200	10	100	0.5	0	0.004	0	2	1	-1	-1	-1	-1	1	10
+24	200	10	100	0.5	0	0.005	0	2	1	-1	-1	-1	-1	1	10
