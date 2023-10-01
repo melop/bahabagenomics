@@ -1,0 +1,10 @@
+Bahaha_taipingensis	/data/projects/rcui/bahaha_assembly/annotations/repeatmask/scf.softmasked.fa
+Chrysochir_aureus	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Chrysochir_aureus.genotyped.g.vcf.gz
+Collichthys_lucidus_pg	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Collichthys_lucidus.genotyped.g.vcf.gz
+Dendrophysa_russelii	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Dendrophysa_russelii.genotyped.g.vcf.gz
+Johnius_belangerii	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Johnius_belangerii.genotyped.g.vcf.gz
+Larimichthys_crocea_pg	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Larimichthys_crocea.genotyped.g.vcf.gz
+Nibea_albiflora_pg	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Nibea_albiflora.genotyped.g.vcf.gz
+Otolithes_ruber	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Otolithes_ruber.genotyped.g.vcf.gz
+Pennahia_anea	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Pennahia_anea.genotyped.g.vcf.gz
+Pennahia_pawak	/data/projects/rcui/bahaha_assembly/reseq_sciaenidae/gatk/Pennahia_pawak.genotyped.g.vcf.gz
