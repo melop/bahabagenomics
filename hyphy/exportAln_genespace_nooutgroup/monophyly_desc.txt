@@ -1,0 +1,4 @@
+Clade1	BTP,Miichthys_miiuyi,Larimichthys_crocea_pg,Collichthys_lucidus_pg
+Clade2	Otolithes_ruber,Chrysochir_aureus,Pennahia_pawak,Pennahia_anea,Nibea_albiflora_pg,Johnius_belangerii,Dendrophysa_russelii
+Clade3	*Clade1,*Clade2
+root	*Clade3,Sciaenops_ocellatus

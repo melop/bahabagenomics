@@ -1,0 +1,6 @@
+#name	cds
+Cheilinus_undulatus	/data/projects/rcui/bahaha_assembly/annotations/other_refs/Cheilinus_undulatus/longest_isoform.cds.fa
+Micropterus_salmoides	/data/projects/rcui/bahaha_assembly/annotations/other_refs/Micropterus_salmoides/longest_isoform.cds.fa
+Sander_lucioperca	/data/projects/rcui/bahaha_assembly/annotations/other_refs/Sander_lucioperca/longest_isoform.cds.fa
+Datnioides_undecimradiatus	/data/projects/rcui/bahaha_assembly/annotations/other_refs/Datnioides_undecimradiatus/longest_isoform.cds.fa
+Lutjanus_erythropterus	/data/projects/rcui/bahaha_assembly/annotations/other_refs/Lutjanus_erythropterus/longest_isoform.cds.fa
