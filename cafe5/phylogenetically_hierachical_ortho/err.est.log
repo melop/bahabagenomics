@@ -1,0 +1,229 @@
+
+Command line: /data/software/CAFE5/bin/cafe5 -c 24 -t tree.tre -i orthogroup.counts.csv -p -e 
+
+Filtering families not present at the root from: 28781 to 20154
+
+Estimating Poisson root distribution from gene families
+
+Optimizer strategy: Nelder-Mead with similarity cutoff
+Iterations: 300
+Expansion: 2
+Reflection: 1
+
+Starting Search for Initial Parameter Values
+
+Completed 26 iterations
+Time: 0H 0M 0S
+Best match is: 0.16329396226553
+Final -lnL: 101631.75178461
+
+Empirical Prior Estimation Result : (26 iterations)
+Poisson lambda: 0.16329396226553 &  Score: 101631.75178461
+
+Optimizer strategy: Nelder-Mead with similarity cutoff
+Iterations: 300
+Expansion: 2
+Reflection: 1
+
+Starting Search for Initial Parameter Values
+Calculating probability: epsilon=0.1, lambda=0.00065985455883002
+Score (-lnL): 157181.70296382
+Calculating probability: epsilon=0.1, lambda=0.00065985455883002
+Score (-lnL): 157181.70296382
+Calculating probability: epsilon=0.1, lambda=0.00069284728677152
+Score (-lnL): 156957.77183015
+Calculating probability: epsilon=0.105, lambda=0.00065985455883002
+Score (-lnL): 156961.60157014
+Calculating probability: epsilon=0.105, lambda=0.00069284728677152
+Score (-lnL): 156749.54742186
+Calculating probability: epsilon=0.1075, lambda=0.00070934365074227
+Score (-lnL):  156569.0368701
+Calculating probability: epsilon=0.1025, lambda=0.00074233637868378
+Score (-lnL): 156576.13756086
+Calculating probability: epsilon=0.11, lambda=0.00075883274265453
+Score (-lnL): 156265.23753131
+Calculating probability: epsilon=0.115, lambda=0.00079182547059603
+Score (-lnL): 156045.22066991
+Calculating probability: epsilon=0.12, lambda=0.00075883274265453
+Score (-lnL):  156084.2836167
+Calculating probability: epsilon=0.1275, lambda=0.00084131456250828
+Score (-lnL): 155849.72471341
+Calculating probability: epsilon=0.1375, lambda=0.00090730001839128
+Score (-lnL): 155893.47110999
+Calculating probability: epsilon=0.1225, lambda=0.00087430729044978
+Score (-lnL): 155806.08603656
+Calculating probability: epsilon=0.12375, lambda=0.00093204456434741
+Score (-lnL): 155766.88104181
+Calculating probability: epsilon=0.13625, lambda=0.00098153365625966
+Score (-lnL): 155907.04118135
+Calculating probability: epsilon=0.115, lambda=0.00079182547059603
+Score (-lnL): 156045.22066991
+Calculating probability: epsilon=0.1203125, lambda=0.00083925251701193
+Score (-lnL): 155868.77400268
+Calculating probability: epsilon=0.1309375, lambda=0.00093410660984375
+Score (-lnL):  155808.8652555
+Calculating probability: epsilon=0.1271875, lambda=0.0010248366116829
+Score (-lnL): 155832.54571658
+Calculating probability: epsilon=0.1275, lambda=0.00084131456250828
+Score (-lnL): 155849.72471341
+Calculating probability: epsilon=0.127421875, lambda=0.00088719507480193
+Score (-lnL): 155798.42356445
+Calculating probability: epsilon=0.120234375, lambda=0.00088513302930558
+Score (-lnL): 155801.95869719
+Calculating probability: epsilon=0.1309375, lambda=0.00093410660984375
+Score (-lnL):  155808.8652555
+Calculating probability: epsilon=0.12826171875, lambda=0.00092186321470921
+Score (-lnL): 155787.19021483
+Calculating probability: epsilon=0.12458984375, lambda=0.00096671270425469
+Score (-lnL): 155771.46981754
+Calculating probability: epsilon=0.120078125, lambda=0.00097689405389288
+Score (-lnL): 155767.69466233
+Calculating probability: epsilon=0.11923828125, lambda=0.0009422259139856
+Score (-lnL): 155768.68754762
+Calculating probability: epsilon=0.12458984375, lambda=0.00096671270425469
+Score (-lnL): 155771.46981754
+Calculating probability: epsilon=0.123251953125, lambda=0.00096059100668742
+Score (-lnL): 155765.75413641
+Calculating probability: epsilon=0.126923828125, lambda=0.00091574151714194
+Score (-lnL): 155781.19980788
+Calculating probability: epsilon=0.12521240234375, lambda=0.00093102965132967
+Score (-lnL): 155770.69324263
+Calculating probability: epsilon=0.1235009765625, lambda=0.00094631778551741
+Score (-lnL): 155764.96056089
+Calculating probability: epsilon=0.1216650390625, lambda=0.00096874253029015
+Score (-lnL): 155765.26208973
+Calculating probability: epsilon=0.1219140625, lambda=0.00095446930912015
+Score (-lnL): 155763.34639515
+Calculating probability: epsilon=0.1212451171875, lambda=0.00095140846033651
+Score (-lnL):  155763.4014023
+Calculating probability: epsilon=0.12375, lambda=0.00093204456434741
+Score (-lnL): 155766.88104181
+Calculating probability: epsilon=0.12322875976563, lambda=0.00094121905583309
+Score (-lnL): 155764.75442598
+Calculating probability: epsilon=0.12164184570313, lambda=0.00094937057943583
+Score (-lnL): 155763.30296362
+Calculating probability: epsilon=0.12071228027344, lambda=0.00095089697639503
+Score (-lnL): 155763.92297463
+Calculating probability: epsilon=0.1203271484375, lambda=0.00096262083272288
+Score (-lnL): 155764.67509613
+Calculating probability: epsilon=0.12322875976563, lambda=0.00094121905583309
+Score (-lnL): 155764.75442598
+Calculating probability: epsilon=0.12250335693359, lambda=0.00094656950005554
+Score (-lnL): 155763.63807972
+Calculating probability: epsilon=0.12105255126953, lambda=0.00095727038850043
+Score (-lnL): 155763.59853456
+Calculating probability: epsilon=0.12250335693359, lambda=0.00094656950005554
+Score (-lnL): 155763.63807972
+Calculating probability: epsilon=0.12214065551758, lambda=0.00094924472216676
+Score (-lnL): 155763.35407817
+Calculating probability: epsilon=0.12141525268555, lambda=0.00095459516638921
+Score (-lnL): 155763.33432285
+Calculating probability: epsilon=0.12114303588867, lambda=0.00094949643670489
+Score (-lnL): 155763.54977242
+Calculating probability: epsilon=0.1213357925415, lambda=0.0009507396548087
+Score (-lnL): 155763.36836383
+Calculating probability: epsilon=0.12152854919434, lambda=0.00095198287291252
+Score (-lnL): 155763.27415913
+Calculating probability: epsilon=0.12177795410156, lambda=0.00095191994427799
+Score (-lnL): 155763.25282241
+Calculating probability: epsilon=0.12166465759277, lambda=0.00095453223775468
+Score (-lnL): 155763.30319701
+Calculating probability: epsilon=0.12165895462036, lambda=0.00095324182317496
+Score (-lnL): 155763.26649243
+Calculating probability: epsilon=0.12190835952759, lambda=0.00095317889454043
+Score (-lnL): 155763.29601806
+Calculating probability: epsilon=0.12181340694427, lambda=0.00095287988913345
+Score (-lnL): 155763.26874181
+Calculating probability: epsilon=0.12162350177765, lambda=0.0009522818783195
+Score (-lnL): 155763.25779549
+Calculating probability: epsilon=0.12174250125885, lambda=0.00095095999942252
+Score (-lnL):  155763.2543769
+Calculating probability: epsilon=0.12189695358276, lambda=0.00095059806538101
+Score (-lnL): 155763.26845919
+Calculating probability: epsilon=0.12182859063149, lambda=0.00095101901861563
+Score (-lnL): 155763.25700606
+Calculating probability: epsilon=0.12169186472893, lambda=0.00095186092508487
+Score (-lnL): 155763.25167425
+Calculating probability: epsilon=0.12162350177765, lambda=0.0009522818783195
+Score (-lnL): 155763.25779549
+Calculating probability: epsilon=0.12172731757164, lambda=0.00095282086994034
+Score (-lnL): 155763.25961879
+Calculating probability: epsilon=0.12173111349344, lambda=0.00095235565231089
+Score (-lnL): 155763.25386223
+Calculating probability: epsilon=0.12173870533705, lambda=0.00095142521705197
+Score (-lnL): 155763.25123352
+Calculating probability: epsilon=0.12174250125885, lambda=0.00095095999942252
+Score (-lnL):  155763.2543769
+Calculating probability: epsilon=0.12165261596441, lambda=0.00095136619785886
+Score (-lnL): 155763.25644136
+Calculating probability: epsilon=0.1216839504987, lambda=0.00095150463446364
+Score (-lnL): 155763.25280647
+Calculating probability: epsilon=0.12174661956728, lambda=0.00095178150767321
+Score (-lnL): 155763.25099706
+Calculating probability: epsilon=0.12177795410156, lambda=0.00095191994427799
+Score (-lnL): 155763.25282241
+Calculating probability: epsilon=0.1217934601754, lambda=0.0009513457996403
+Score (-lnL): 155763.25304124
+Calculating probability: epsilon=0.12176806131378, lambda=0.00095147458100145
+Score (-lnL): 155763.25156901
+Calculating probability: epsilon=0.12171726359054, lambda=0.00095173214372373
+Score (-lnL): 155763.25088575
+Calculating probability: epsilon=0.12169186472893, lambda=0.00095186092508487
+Score (-lnL): 155763.25167425
+Calculating probability: epsilon=0.12172517782077, lambda=0.00095208843434496
+Score (-lnL): 155763.25179273
+Calculating probability: epsilon=0.12172855969984, lambda=0.00095192263002172
+Score (-lnL): 155763.25111101
+Calculating probability: epsilon=0.12173532345798, lambda=0.00095159102137522
+Score (-lnL): 155763.25083175
+Calculating probability: epsilon=0.12173870533705, lambda=0.00095142521705197
+Score (-lnL): 155763.25123352
+Calculating probability: epsilon=0.12170596748125, lambda=0.00095154165742575
+Score (-lnL): 155763.25151034
+Calculating probability: epsilon=0.12171613050275, lambda=0.00095160161998761
+Score (-lnL): 155763.25104176
+Calculating probability: epsilon=0.12172629352426, lambda=0.00095166158254948
+Score (-lnL): 155763.25080003
+Calculating probability: epsilon=0.12174097151263, lambda=0.00095168626452421
+Score (-lnL): 155763.25080857
+Calculating probability: epsilon=0.12173194157891, lambda=0.00095175682569847
+Score (-lnL): 155763.25079106
+Calculating probability: epsilon=0.12173025063938, lambda=0.00095183972786009
+Score (-lnL): 155763.25090583
+Calculating probability: epsilon=0.12171726359054, lambda=0.00095173214372373
+Score (-lnL): 155763.25088575
+Calculating probability: epsilon=0.12172319057107, lambda=0.00095172067392385
+Score (-lnL): 155763.25080792
+Calculating probability: epsilon=0.12173504453211, lambda=0.00095169773432409
+Score (-lnL): 155763.25076929
+Calculating probability: epsilon=0.12174097151263, lambda=0.00095168626452421
+Score (-lnL): 155763.25080857
+Calculating probability: epsilon=0.12174069258675, lambda=0.00095179297747308
+Score (-lnL): 155763.25091155
+Calculating probability: epsilon=0.12173709282113, lambda=0.00095176012874218
+Score (-lnL): 155763.25082351
+Calculating probability: epsilon=0.12173349305551, lambda=0.00095172728001128
+Score (-lnL): 155763.25077464
+Calculating probability: epsilon=0.12173066902818, lambda=0.00095167965843678
+Score (-lnL): 155763.25076754
+Calculating probability: epsilon=0.12173222050478, lambda=0.0009516501127496
+Score (-lnL):  155763.2507772
+Calculating probability: epsilon=0.12173253864246, lambda=0.00095166940456502
+Score (-lnL): 155763.25076775
+
+Completed 47 iterations
+Time: 0H 2M 26S
+Best matches are: 0.00095167965843678,0.060865334514092
+Final -lnL: 155763.25076754
+
+92 values were attempted (0% rejected)
+
+Inferring processes for Base model
+Score (-lnL): 155763.25076754
+Maximum possible lambda for this topology: 0.011839279414098
+Computing pvalues...
+done!
+
+Starting reconstruction processes for Base model
+Done!
+
