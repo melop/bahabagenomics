@@ -1,0 +1,77 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 81583 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 1.59%
+
+RAxML Model Optimization up to an accuracy of 0.100000 log likelihood units
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 81583
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/data/software/standard-RAxML-8.2.12/raxmlHPC-PTHREADS-AVX2 -t ../../partition.txt.treefile -s 4fold.phy -T 86 -f e -m GTRGAMMA -n 4foldoptmbrlen 
+
+
+
+Model parameters (binary file format) written to: /data/projects/rcui/bahaha_assembly/phylodates/fewerspp/raxml/iqtree/mcmctree/optm_brlen_4fold/RAxML_binaryModelParameters.4foldoptmbrlen
+
+
+Overall Time for Tree Evaluation 3.198698
+Final GAMMA  likelihood: -2334082.542348
+
+Number of free parameters for AIC-TEST(BR-LEN): 72
+Number of free parameters for AIC-TEST(NO-BR-LEN): 9
+
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 3.656881
+Tree-Length: 10.696731
+rate A <-> C: 1.054828
+rate A <-> G: 2.709175
+rate A <-> T: 1.670169
+rate C <-> G: 0.812969
+rate C <-> T: 2.689387
+rate G <-> T: 1.000000
+
+freq pi(A): 0.179035
+freq pi(C): 0.322599
+freq pi(G): 0.297752
+freq pi(T): 0.200615
+
+Final tree written to:                 /data/projects/rcui/bahaha_assembly/phylodates/fewerspp/raxml/iqtree/mcmctree/optm_brlen_4fold/RAxML_result.4foldoptmbrlen
+Execution Log File written to:         /data/projects/rcui/bahaha_assembly/phylodates/fewerspp/raxml/iqtree/mcmctree/optm_brlen_4fold/RAxML_log.4foldoptmbrlen

@@ -1,0 +1,2 @@
+RefName	Path	GFF
+BTP	/data/projects/rcui/bahaha_assembly/release1.0/genome/bahaha.softmasked.fa	/data/projects/rcui/bahaha_assembly/release1.0/annotations_update_symbols/btp.longest.addedUPhO.genesymbol2.spgeneid.gff3

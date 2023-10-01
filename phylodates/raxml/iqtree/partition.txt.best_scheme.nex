@@ -1,0 +1,10 @@
+#nexus
+begin sets;
+  charset codon1 = 1-665424\3;
+  charset codon2 = 2-665424\3;
+  charset codon3 = 3-665424\3;
+  charpartition mymodels =
+    GTR+F+R5: codon1,
+    GTR+F+R6: codon2,
+    GTR+F+R6: codon3;
+end;

@@ -1,0 +1,104 @@
+MCMCTREE in paml version 4.9j, February 2020
+
+Reading options from mcmctree.ctl..
+burnin=0: no automatic step adjustment?
+Reading master tree.
+(((((((((((((((((((Dendrophysa_russelii, Johnius_belangerii), Nibea_albiflora_pg), (Pennahia_anea, Pennahia_pawak)), Chrysochir_aureus), Otolithes_ruber), ((Collichthys_lucidus_pg, Larimichthys_crocea_pg), (Miichthys_miiuyi, BTP))), Sciaenops_ocellatus), (Datnioides_undecimradiatus, Lutjanus_erythropterus)), (takifugu, tetraodon)), ((stickleback, Sander_lucioperca), Micropterus_salmoides)), Cheilinus_undulatus), (anabas, betta)), (((poecilia, xmac), medaka), tilapia)), neogobius), gadus), salmon), (astyanax, zebrafish)), bonytongue), spotted_gar);
+
+Reading sequence data..  3 loci
+
+
+*** Locus 1 ***
+ns = 33  	ls = 221808
+Reading sequences, sequential format..
+Reading seq # 1: BTP       Reading seq # 2: Chrysochir_aureus       Reading seq # 3: Collichthys_lucidus_pg       Reading seq # 4: Dendrophysa_russelii       Reading seq # 5: Johnius_belangerii       Reading seq # 6: Larimichthys_crocea_pg       Reading seq # 7: Nibea_albiflora_pg       Reading seq # 8: Otolithes_ruber       Reading seq # 9: Pennahia_anea       Reading seq #10: Pennahia_pawak       Reading seq #11: Miichthys_miiuyi       Reading seq #12: Sciaenops_ocellatus       Reading seq #13: anabas       Reading seq #14: astyanax       Reading seq #15: betta       Reading seq #16: bonytongue       Reading seq #17: gadus       Reading seq #18: medaka       Reading seq #19: neogobius       Reading seq #20: poecilia       Reading seq #21: salmon       Reading seq #22: spotted_gar       Reading seq #23: stickleback       Reading seq #24: takifugu       Reading seq #25: tetraodon       Reading seq #26: tilapia       Reading seq #27: xmac       Reading seq #28: zebrafish       Reading seq #29: Cheilinus_undulatus       Reading seq #30: Datnioides_undecimradiatus       Reading seq #31: Lutjanus_erythropterus       Reading seq #32: Micropterus_salmoides       Reading seq #33: Sander_lucioperca       
+Sequences read..
+Counting site patterns..  0:02
+Compressing,   3583 patterns at  10000 / 221808 sites (4.5%),  0:02Compressing,   6204 patterns at  20000 / 221808 sites (9.0%),  0:02Compressing,   8745 patterns at  30000 / 221808 sites (13.5%),  0:02Compressing,  11055 patterns at  40000 / 221808 sites (18.0%),  0:02Compressing,  13709 patterns at  50000 / 221808 sites (22.5%),  0:02Compressing,  16461 patterns at  60000 / 221808 sites (27.1%),  0:02Compressing,  18650 patterns at  70000 / 221808 sites (31.6%),  0:02Compressing,  20702 patterns at  80000 / 221808 sites (36.1%),  0:02Compressing,  22970 patterns at  90000 / 221808 sites (40.6%),  0:02Compressing,  24906 patterns at 100000 / 221808 sites (45.1%),  0:02Compressing,  27015 patterns at 110000 / 221808 sites (49.6%),  0:02Compressing,  28971 patterns at 120000 / 221808 sites (54.1%),  0:02Compressing,  31007 patterns at 130000 / 221808 sites (58.6%),  0:02Compressing,  32973 patterns at 140000 / 221808 sites (63.1%),  0:02Compressing,  35102 patterns at 150000 / 221808 sites (67.6%),  0:02Compressing,  37059 patterns at 160000 / 221808 sites (72.1%),  0:02Compressing,  39011 patterns at 170000 / 221808 sites (76.6%),  0:02Compressing,  41447 patterns at 180000 / 221808 sites (81.2%),  0:02Compressing,  43710 patterns at 190000 / 221808 sites (85.7%),  0:02Compressing,  45707 patterns at 200000 / 221808 sites (90.2%),  0:02Compressing,  47881 patterns at 210000 / 221808 sites (94.7%),  0:03Compressing,  49921 patterns at 220000 / 221808 sites (99.2%),  0:03Compressing,  50250 patterns at 221808 / 221808 sites (100.0%),  0:03
+Collecting fpatt[] & pose[],  50250 patterns at  10000 / 221808 sites (4.5%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  20000 / 221808 sites (9.0%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  30000 / 221808 sites (13.5%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  40000 / 221808 sites (18.0%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  50000 / 221808 sites (22.5%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  60000 / 221808 sites (27.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  70000 / 221808 sites (31.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  80000 / 221808 sites (36.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at  90000 / 221808 sites (40.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 100000 / 221808 sites (45.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 110000 / 221808 sites (49.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 120000 / 221808 sites (54.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 130000 / 221808 sites (58.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 140000 / 221808 sites (63.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 150000 / 221808 sites (67.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 160000 / 221808 sites (72.1%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 170000 / 221808 sites (76.6%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 180000 / 221808 sites (81.2%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 190000 / 221808 sites (85.7%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 200000 / 221808 sites (90.2%),  0:03Collecting fpatt[] & pose[],  50250 patterns at 210000 / 221808 sites (94.7%),  0:04Collecting fpatt[] & pose[],  50250 patterns at 220000 / 221808 sites (99.2%),  0:04Collecting fpatt[] & pose[],  50250 patterns at 221808 / 221808 sites (100.0%),  0:04
+Counting frequencies..
+50250 patterns, messy
+
+
+*** Locus 2 ***
+ns = 33  	ls = 221808
+Reading sequences, sequential format..
+Reading seq # 1: BTP       Reading seq # 2: Chrysochir_aureus       Reading seq # 3: Collichthys_lucidus_pg       Reading seq # 4: Dendrophysa_russelii       Reading seq # 5: Johnius_belangerii       Reading seq # 6: Larimichthys_crocea_pg       Reading seq # 7: Nibea_albiflora_pg       Reading seq # 8: Otolithes_ruber       Reading seq # 9: Pennahia_anea       Reading seq #10: Pennahia_pawak       Reading seq #11: Miichthys_miiuyi       Reading seq #12: Sciaenops_ocellatus       Reading seq #13: anabas       Reading seq #14: astyanax       Reading seq #15: betta       Reading seq #16: bonytongue       Reading seq #17: gadus       Reading seq #18: medaka       Reading seq #19: neogobius       Reading seq #20: poecilia       Reading seq #21: salmon       Reading seq #22: spotted_gar       Reading seq #23: stickleback       Reading seq #24: takifugu       Reading seq #25: tetraodon       Reading seq #26: tilapia       Reading seq #27: xmac       Reading seq #28: zebrafish       Reading seq #29: Cheilinus_undulatus       Reading seq #30: Datnioides_undecimradiatus       Reading seq #31: Lutjanus_erythropterus       Reading seq #32: Micropterus_salmoides       Reading seq #33: Sander_lucioperca       
+Sequences read..
+Counting site patterns..  0:05
+Compressing,   2398 patterns at  10000 / 221808 sites (4.5%),  0:05Compressing,   4014 patterns at  20000 / 221808 sites (9.0%),  0:05Compressing,   5705 patterns at  30000 / 221808 sites (13.5%),  0:05Compressing,   7171 patterns at  40000 / 221808 sites (18.0%),  0:05Compressing,   8843 patterns at  50000 / 221808 sites (22.5%),  0:05Compressing,  10573 patterns at  60000 / 221808 sites (27.1%),  0:05Compressing,  11887 patterns at  70000 / 221808 sites (31.6%),  0:06Compressing,  13055 patterns at  80000 / 221808 sites (36.1%),  0:06Compressing,  14391 patterns at  90000 / 221808 sites (40.6%),  0:06Compressing,  15586 patterns at 100000 / 221808 sites (45.1%),  0:06Compressing,  16813 patterns at 110000 / 221808 sites (49.6%),  0:06Compressing,  17966 patterns at 120000 / 221808 sites (54.1%),  0:06Compressing,  19209 patterns at 130000 / 221808 sites (58.6%),  0:06Compressing,  20370 patterns at 140000 / 221808 sites (63.1%),  0:06Compressing,  21706 patterns at 150000 / 221808 sites (67.6%),  0:06Compressing,  22825 patterns at 160000 / 221808 sites (72.1%),  0:06Compressing,  24032 patterns at 170000 / 221808 sites (76.6%),  0:06Compressing,  25570 patterns at 180000 / 221808 sites (81.2%),  0:06Compressing,  26982 patterns at 190000 / 221808 sites (85.7%),  0:06Compressing,  28225 patterns at 200000 / 221808 sites (90.2%),  0:06Compressing,  29490 patterns at 210000 / 221808 sites (94.7%),  0:06Compressing,  30745 patterns at 220000 / 221808 sites (99.2%),  0:07Compressing,  30972 patterns at 221808 / 221808 sites (100.0%),  0:07
+Collecting fpatt[] & pose[],  30972 patterns at  10000 / 221808 sites (4.5%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  20000 / 221808 sites (9.0%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  30000 / 221808 sites (13.5%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  40000 / 221808 sites (18.0%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  50000 / 221808 sites (22.5%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  60000 / 221808 sites (27.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  70000 / 221808 sites (31.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  80000 / 221808 sites (36.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at  90000 / 221808 sites (40.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 100000 / 221808 sites (45.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 110000 / 221808 sites (49.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 120000 / 221808 sites (54.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 130000 / 221808 sites (58.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 140000 / 221808 sites (63.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 150000 / 221808 sites (67.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 160000 / 221808 sites (72.1%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 170000 / 221808 sites (76.6%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 180000 / 221808 sites (81.2%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 190000 / 221808 sites (85.7%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 200000 / 221808 sites (90.2%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 210000 / 221808 sites (94.7%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 220000 / 221808 sites (99.2%),  0:07Collecting fpatt[] & pose[],  30972 patterns at 221808 / 221808 sites (100.0%),  0:07
+Counting frequencies..
+30972 patterns, messy
+
+
+*** Locus 3 ***
+ns = 33  	ls = 221808
+Reading sequences, sequential format..
+Reading seq # 1: BTP       Reading seq # 2: Chrysochir_aureus       Reading seq # 3: Collichthys_lucidus_pg       Reading seq # 4: Dendrophysa_russelii       Reading seq # 5: Johnius_belangerii       Reading seq # 6: Larimichthys_crocea_pg       Reading seq # 7: Nibea_albiflora_pg       Reading seq # 8: Otolithes_ruber       Reading seq # 9: Pennahia_anea       Reading seq #10: Pennahia_pawak       Reading seq #11: Miichthys_miiuyi       Reading seq #12: Sciaenops_ocellatus       Reading seq #13: anabas       Reading seq #14: astyanax       Reading seq #15: betta       Reading seq #16: bonytongue       Reading seq #17: gadus       Reading seq #18: medaka       Reading seq #19: neogobius       Reading seq #20: poecilia       Reading seq #21: salmon       Reading seq #22: spotted_gar       Reading seq #23: stickleback       Reading seq #24: takifugu       Reading seq #25: tetraodon       Reading seq #26: tilapia       Reading seq #27: xmac       Reading seq #28: zebrafish       Reading seq #29: Cheilinus_undulatus       Reading seq #30: Datnioides_undecimradiatus       Reading seq #31: Lutjanus_erythropterus       Reading seq #32: Micropterus_salmoides       Reading seq #33: Sander_lucioperca       
+Sequences read..
+Counting site patterns..  0:08
+Compressing,   8199 patterns at  10000 / 221808 sites (4.5%),  0:08Compressing,  15657 patterns at  20000 / 221808 sites (9.0%),  0:08Compressing,  22609 patterns at  30000 / 221808 sites (13.5%),  0:08Compressing,  29380 patterns at  40000 / 221808 sites (18.0%),  0:08Compressing,  36353 patterns at  50000 / 221808 sites (22.5%),  0:08Compressing,  43390 patterns at  60000 / 221808 sites (27.1%),  0:08Compressing,  49743 patterns at  70000 / 221808 sites (31.6%),  0:08Compressing,  56244 patterns at  80000 / 221808 sites (36.1%),  0:08Compressing,  63888 patterns at  90000 / 221808 sites (40.6%),  0:09Compressing,  69848 patterns at 100000 / 221808 sites (45.1%),  0:09Compressing,  76710 patterns at 110000 / 221808 sites (49.6%),  0:09Compressing,  83597 patterns at 120000 / 221808 sites (54.1%),  0:09Compressing,  90332 patterns at 130000 / 221808 sites (58.6%),  0:09Compressing,  96603 patterns at 140000 / 221808 sites (63.1%),  0:10Compressing, 102983 patterns at 150000 / 221808 sites (67.6%),  0:10Compressing, 109858 patterns at 160000 / 221808 sites (72.1%),  0:10Compressing, 116616 patterns at 170000 / 221808 sites (76.6%),  0:10Compressing, 123801 patterns at 180000 / 221808 sites (81.2%),  0:10Compressing, 130335 patterns at 190000 / 221808 sites (85.7%),  0:10Compressing, 136873 patterns at 200000 / 221808 sites (90.2%),  0:11Compressing, 143947 patterns at 210000 / 221808 sites (94.7%),  0:11Compressing, 150257 patterns at 220000 / 221808 sites (99.2%),  0:12Compressing, 151246 patterns at 221808 / 221808 sites (100.0%),  0:12
+Collecting fpatt[] & pose[], 151246 patterns at  10000 / 221808 sites (4.5%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  20000 / 221808 sites (9.0%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  30000 / 221808 sites (13.5%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  40000 / 221808 sites (18.0%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  50000 / 221808 sites (22.5%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  60000 / 221808 sites (27.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  70000 / 221808 sites (31.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  80000 / 221808 sites (36.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at  90000 / 221808 sites (40.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 100000 / 221808 sites (45.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 110000 / 221808 sites (49.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 120000 / 221808 sites (54.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 130000 / 221808 sites (58.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 140000 / 221808 sites (63.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 150000 / 221808 sites (67.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 160000 / 221808 sites (72.1%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 170000 / 221808 sites (76.6%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 180000 / 221808 sites (81.2%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 190000 / 221808 sites (85.7%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 200000 / 221808 sites (90.2%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 210000 / 221808 sites (94.7%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 220000 / 221808 sites (99.2%),  0:12Collecting fpatt[] & pose[], 151246 patterns at 221808 / 221808 sites (100.0%),  0:12
+Counting frequencies..
+151246 patterns, messy
+
+
+Fossil calibration information used.
+Node  34:   B (  2.5000,  3.3110,  0.0250,  0.0250 )
+Node  58:   B (  0.3200,  0.5000,  0.0250,  0.0250 )
+Node  63:   B (  0.4911,  1.3080,  0.0250,  0.0250 )
+
+Summarizing MCMC samples . ..
+
+Data file has a header line.
+1600000 records, 40 variables
+Collecting mean, median, min, max, percentiles, etc.
+
+			    40/    40 done  22:20
+
+
+Posterior means (95% Equal-tail CI) (95% HPD CI) HPD-CI-width
+
+t_n34          2.9984 ( 2.5314,  3.3225) ( 2.5543,  3.3375)  0.7833  (Jnode 64)
+t_n35          2.8846 ( 2.4148,  3.2699) ( 2.4425,  3.2889)  0.8464  (Jnode 63)
+t_n36          2.4314 ( 2.0084,  2.8219) ( 2.0129,  2.8263)  0.8134  (Jnode 62)
+t_n37          2.0261 ( 1.6591,  2.3938) ( 1.6577,  2.3924)  0.7346  (Jnode 61)
+t_n38          1.6227 ( 1.3063,  1.9515) ( 1.3013,  1.9462)  0.6449  (Jnode 60)
+t_n39          1.2290 ( 0.9848,  1.4936) ( 0.9767,  1.4844)  0.5077  (Jnode 59)
+t_n40          1.0093 ( 0.8077,  1.2341) ( 0.7988,  1.2229)  0.4240  (Jnode 58)
+t_n41          0.9504 ( 0.7565,  1.1645) ( 0.7493,  1.1559)  0.4066  (Jnode 57)
+t_n42          0.8446 ( 0.6604,  1.0467) ( 0.6524,  1.0368)  0.3844  (Jnode 56)
+t_n43          0.8020 ( 0.6250,  0.9978) ( 0.6194,  0.9902)  0.3707  (Jnode 55)
+t_n44          0.7561 ( 0.5875,  0.9451) ( 0.5822,  0.9385)  0.3564  (Jnode 54)
+t_n45          0.7358 ( 0.5703,  0.9222) ( 0.5646,  0.9155)  0.3510  (Jnode 53)
+t_n46          0.1589 ( 0.1223,  0.2009) ( 0.1202,  0.1984)  0.0782  (Jnode 52)
+t_n47          0.1251 ( 0.0972,  0.1559) ( 0.0962,  0.1547)  0.0585  (Jnode 51)
+t_n48          0.1102 ( 0.0854,  0.1379) ( 0.0843,  0.1365)  0.0523  (Jnode 50)
+t_n49          0.1004 ( 0.0775,  0.1260) ( 0.0764,  0.1248)  0.0484  (Jnode 49)
+t_n50          0.0948 ( 0.0729,  0.1195) ( 0.0718,  0.1181)  0.0463  (Jnode 48)
+t_n51          0.0839 ( 0.0637,  0.1068) ( 0.0626,  0.1055)  0.0429  (Jnode 47)
+t_n52          0.0640 ( 0.0463,  0.0844) ( 0.0456,  0.0834)  0.0378  (Jnode 46)
+t_n53          0.0716 ( 0.0524,  0.0938) ( 0.0515,  0.0927)  0.0412  (Jnode 45)
+t_n54          0.1081 ( 0.0820,  0.1375) ( 0.0805,  0.1356)  0.0551  (Jnode 44)
+t_n55          0.0491 ( 0.0328,  0.0696) ( 0.0316,  0.0680)  0.0364  (Jnode 43)
+t_n56          0.1029 ( 0.0775,  0.1318) ( 0.0762,  0.1301)  0.0540  (Jnode 42)
+t_n57          0.6994 ( 0.5382,  0.8826) ( 0.5319,  0.8748)  0.3429  (Jnode 41)
+t_n58          0.3788 ( 0.3174,  0.4820) ( 0.3121,  0.4713)  0.1592  (Jnode 40)
+t_n59          0.7727 ( 0.5998,  0.9653) ( 0.5947,  0.9587)  0.3640  (Jnode 39)
+t_n60          0.6322 ( 0.4707,  0.8169) ( 0.4656,  0.8108)  0.3452  (Jnode 38)
+t_n61          0.6553 ( 0.4678,  0.8612) ( 0.4625,  0.8550)  0.3925  (Jnode 37)
+t_n62          0.9127 ( 0.7293,  1.1226) ( 0.7203,  1.1103)  0.3900  (Jnode 36)
+t_n63          0.7591 ( 0.5982,  0.9444) ( 0.5905,  0.9353)  0.3447  (Jnode 35)
+t_n64          0.1867 ( 0.1223,  0.2707) ( 0.1169,  0.2630)  0.1462  (Jnode 34)
+t_n65          1.6484 ( 1.2222,  2.0880) ( 1.2128,  2.0772)  0.8643  (Jnode 33)
+mu1            0.0609 ( 0.0490,  0.0761) ( 0.0482,  0.0751)  0.0268
+mu2            0.0348 ( 0.0280,  0.0436) ( 0.0274,  0.0428)  0.0154
+mu3            0.3252 ( 0.2588,  0.4092) ( 0.2543,  0.4029)  0.1487
+sigma2_1       0.2003 ( 0.1384,  0.2872) ( 0.1318,  0.2767)  0.1449
+sigma2_2       0.2009 ( 0.1371,  0.2910) ( 0.1305,  0.2802)  0.1497
+sigma2_3       0.2668 ( 0.1846,  0.3816) ( 0.1760,  0.3679)  0.1919
+lnL          -94.4462 (-114.4070, -76.3780) (-113.8650, -75.9380) 37.9270
+
+mean	2.9984	2.8846	2.4314	2.0261	1.6227	1.2290	1.0093	0.9504	0.8446	0.8020	0.7561	0.7358	0.1589	0.1251	0.1102	0.1004	0.0948	0.0839	0.0640	0.0716	0.1081	0.0491	0.1029	0.6994	0.3788	0.7727	0.6322	0.6553	0.9127	0.7591	0.1867	1.6484	0.0609	0.0348	0.3252	0.2003	0.2009	0.2668	-94.4462
+Eff 	0.0004	0.0004	0.0003	0.0003	0.0003	0.0003	0.0003	0.0003	0.0003	0.0003	0.0003	0.0003	0.0004	0.0003	0.0003	0.0003	0.0003	0.0004	0.0004	0.0004	0.0004	0.0008	0.0004	0.0003	0.0007	0.0003	0.0003	0.0004	0.0003	0.0003	0.0009	0.0005	0.0004	0.0004	0.0004	0.0276	0.0152	0.0299	0.9918
