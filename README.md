@@ -1,0 +1,1 @@
+This repository contains code for the paper Phased genome assemblies reveal haplotype-specific genetic load in the critically endangered Chinese Bahaba (Teleostei, Sciaenidae). Rongfeng Cui, Jinxian Wu, Kuoqiu Yan, Sujun Luo, Yuting Hu, Wei Feng, Bingqian Lu and Junjie Wang
